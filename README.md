@@ -6,11 +6,4 @@
 <p float="left">
   <img src="screenshot/php.png" width="200" alt="Made with Angular" title="Angular" />
   <img src="screenshot/php.png" width="200" alt="Made with Angular" title="Angular" hspace="20"/> 
-  <img src="screenshot/php.png" width="200"alt="Made with Angular" title="Angular" hspace="20" />
-  <img src="screenshot/php.png" width="200" alt="Made with Angular" title="Angular" hspace="20"/> 
-  <img src="screenshot/php.png" width="200"alt="Made with Angular" title="Angular" hspace="20" />
-  <img src="screenshot/php.png" width="200" alt="Made with Angular" title="Angular" hspace="20"/> 
-  <img src="screenshot/php.png" width="200"alt="Made with Angular" title="Angular" hspace="20" />
-  <img src="screenshot/php.png" width="200" alt="Made with Angular" title="Angular" hspace="20"/> 
-  <img src="screenshot/php.png" width="200"alt="Made with Angular" title="Angular" hspace="20" />
 </p>
